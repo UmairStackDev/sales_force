@@ -1,0 +1,255 @@
+.contact .container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+/* Optional: Reset padding for columns */
+.col-1,
+.col-11 {
+  padding-right: 0;
+  padding-left: 0;
+}
+.contact .content {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+.contact .content .contact .img .logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 100%;
+  background-color: #9602c7;
+  /* margin-top: 20px; */
+}
+.contact .content .contact .img {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.contact .content .contact .img .pera span {
+  font-weight: 400;
+  font-size: 13px;
+}
+.contact .content .contact .img .pera h1 {
+  font-size: 1.75rem;
+  font-weight: 400;
+}
+
+.contact .content .contact .butttons .serach input {
+  border-radius: 20px 0px 0px 20px;
+  padding: 2px 25px;
+  outline: none;
+  box-shadow: none;
+  border: 1px solid #000;
+  font-size: 13px;
+}
+.contact .content .contact .butttons .serach {
+  position: relative;
+}
+.contact .content .contact .butttons .serach i {
+  position: absolute;
+  left: 7px;
+  top: 12px;
+  color: #000;
+  font-size: 13px;
+}
+.contact .content .contact .butttons .button_new {
+  padding: 2px 20px;
+  border-radius: 0px 20px 20px 0px;
+  /* padding: 2px 25px; */
+  outline: none;
+  box-shadow: none;
+  border: 1px solid #000;
+  font-size: 13px;
+  border-left: none;
+  background-color: #ffff;
+  color: #0250d9;
+}
+.contact .content .contact .butttons .button_new:hover {
+  background-color: #f3f0f0b2;
+  color: #918e8e;
+}
+.contact .content .contact .butttons {
+  display: flex;
+}
+.contact .content .contact {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding-right: 50px;
+}
+.contact .content .tables {
+  padding-right: 50px;
+  padding-top: 20px;
+}
+
+.contact .content .tables .table tr th {
+  border-top: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
+  line-height: 1;
+  border-left: 1px solid #ddd;
+}
+.contact .content .tables .table tr td {
+  border-top: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
+  line-height: 1;
+  border-left: 1px solid #ddd;
+}
+
+.contact .content .modal-title {
+  text-align: center;
+  width: 100%;
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.modal-body .form label {
+  font-size: 14px;
+  font-weight: 400;
+  color: #000;
+}
+.modal-body .form {
+  padding-left: 25px;
+}
+.modal-body .form select {
+  padding: 8px 10px;
+  border-radius: 10px;
+  outline: none;
+  box-shadow: none;
+  font-size: 13px;
+  border: 1px solid #000;
+}
+.modal-body input , textarea{
+  padding: 3px 10px;
+  border-radius: 10px;
+  outline: none !important;
+  box-shadow: none !important;
+  font-size: 13px;
+  border: 1px solid #000;
+}
+.modal-content {
+  width: 832px !important;
+  left: -32% !important;
+  top: 93px !important;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    180deg,
+    #4caf50,
+    #81c784
+  ); /* Gradient color for the thumb */
+  border-radius: 10px; /* Rounded corners for the thumb */
+}
+.modal-body {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  height: 356px !important;
+  overflow-y: scroll;
+}
+.modal-content .acounts_search{
+    position: relative;
+}
+.modal-content .acounts_search i {
+  color: #000;
+  position: absolute;
+  top: 53px;
+  right: 10px;
+  font-size: 14px;
+}
+
+.modal-content .salutation_up{
+    padding-top: 10px;
+}
+.modal-content p{
+    font-size: 13px;
+    font-weight: 400;
+}
+.contact .content .tables table tbody tr{
+    background-color: #fff;
+}
+.contact .content .tables table tbody tr td{
+    font-size: 13px !important;
+    font-weight:500;
+}
+.modal-footer{
+    justify-content: center ;
+ 
+}
+.modal-footer>* {
+    margin: 0;
+}
+
+.modal-footer .close{
+    border-radius: 20px 0px 0px 20px;
+    background-color: #001642;
+    border: 1px solid #001642;
+}
+
+.modal-footer .save_new{
+    border-radius: 0px 0px 0px 0px;
+    background-color: #066AFE;
+    border: 1px solid #066AFE;
+}
+.modal-footer .save{
+    border-radius: 0px 20px 20px 0px;
+    background-color: #4caf50;
+    border: 1px solid #4caf50;
+}
+ .tables table thead tr th{
+    font-size: 13px !important;
+    font-weight:500;
+}
+
+.action {
+    position: relative;
+    display: inline-block;
+    
+}
+
+.action-button {
+    background: none;
+    border: none;
+    /* padding: 10px; */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
+.action-details {
+    display: none;
+    position: absolute;
+    top: 110%;
+    left: -100px;
+    background-color: #fff;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1;
+    width: 150px; /* Adjust width as needed */
+}
+
+.action-details p {
+    margin: 0 0 10px;
+    padding-top: 5px;
+}
+
+.action-details a {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.action-details a:hover {
+    text-decoration: underline;
+}

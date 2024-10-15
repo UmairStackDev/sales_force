@@ -1,0 +1,349 @@
+ <section class="section5 py-5">
+      <div class="container">
+        <div class="head">
+          <h2 class="grayline py-5">
+            <span class="span-3">OUR DIGITAL MARKETING PROCESS</span>
+          </h2>
+        </div>
+
+        <div class="body">
+          <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+            <li class="nav-item" role="presentation">
+              <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home"
+                type="button" role="tab" aria-controls="pills-home" aria-selected="true">Insights</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile"
+                type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Strategy</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact"
+                type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Design & Copy</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="pills-rww-tab" data-bs-toggle="pill" data-bs-target="#pills-rww"
+                type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Development</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="pills-rw-tab" data-bs-toggle="pill" data-bs-target="#pills-rw" type="button"
+                role="tab" aria-controls="pills-contact" aria-selected="false">Release</button>
+            </li>
+
+          </ul>
+          <div class="tab-content" id="pills-tabContent">
+            <div class="tab-pane fade show active py-5" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab"
+              tabindex="0">
+              <div class="container">
+                <div class="main">
+                  <div class="left">
+                    <h2>Insights</h2>
+                    <p>We start by analyzing your position, mapping your route, and eyeing your competitor and then incorporate the best data and insights to help you succeed.
+                    </p>
+                    <nav>
+                      <ul>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/digitalmarketing/ic-digital-marketing-management01.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Consumer Insights</h4>
+                                <p>Use Google trends, analytics, keyword planner, Facebook insights, and other social media tool to plan your journey.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/digitalmarketing/ic-digital-marketing-management02.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Engagement rate</h4>
+                                <p>Find the click, comment, and share rates to determine how powerful the engagement drive you require.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain screw4">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/digitalmarketing/ic-digital-marketing-management03.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Impressions and reach</h4>
+                                <p>To gauge your brand against the ultimate performance metrics and then take it over.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                      </ul>
+                    </nav>
+                  </div>
+                  <div class="right">
+                    <img src="images/designbrandimg.png" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab"
+              tabindex="1">
+              <div class="container">
+                <div class="main">
+                  <div class="left">
+                    <h2>Strategy</h2>
+                    <p>We drive engagement through research-backed strategies that turn your idle followers into active participants.
+                    </p>
+                    <nav>
+                      <ul>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain screw1">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/digitalmarketing/ic-digital-marketing-management04.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Defining goals</h4>
+                                <p>Setting specific, time-defined, relevant, traceable, and achievable goals.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/digitalmarketing/ic-digital-marketing-management05.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Tracking metrics</h4>
+                                <p>Keeping track of click-through, story views, cost per click, website click, conversions, and other metrics.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/digitalmarketing/ic-digital-marketing-management06.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Creating Personas & More</h4>
+                                <p>Determining the target audience to match your brand, collecting data, social media audit, and more.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                      </ul>
+                    </nav>
+                    <a href="" class="brain_a">Read the customer story <i class="fa-solid fa-arrow-right"></i> </a>
+                  </div>
+                  <div class="right">
+                    <img src="images/designbrandimg.png" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab"
+              tabindex="2">
+              <div class="container">
+                <div class="main">
+                  <div class="left">
+                    <h2>Design & Copy</h2>
+                    <p>We merge the best of fine expression and creative designs to create simple yet amazing results. No jargons or complicated blueprints here to haunt you!
+                    </p>
+                    <nav>
+                      <ul>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain screw3">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/digitalmarketing/ic-digital-marketing-management07.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Brand guidelines</h4>
+                                <p>We create brand guidelines early in line with each design, and copy mimics our intent.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain screw">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/digitalmarketing/ic-digital-marketing-management08.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Goal per post</h4>
+                                <p>We set goals for each post on a specific platform to determine post success concerning copy, design, and engagement.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain screw ">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/digitalmarketing/ic-digital-marketing-management09.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Audience specific</h4>
+                                <p>Each post design and writing style matches the target audience on that platform so that people engage, share, and like your posts.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                      </ul>
+                    </nav>
+                    <a href="" class="brain_a">Read the customer story <i class="fa-solid fa-arrow-right"></i> </a>
+                  </div>
+                  <div class="right">
+                    <img src="images/tab1.png" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade" id="pills-rww" role="tabpanel" aria-labelledby="pills-rww-tab" tabindex="3">
+              <div class="container">
+                <div class="main">
+                  <div class="left">
+                    <h2>Development</h2>
+                    <p>The app engineers and product creators develop the application inspired by pre-defined
+                      guidelines.
+                    </p>
+                    <nav>
+                      <ul>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/mobilewebapp/ic-web-process10.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Coding</h4>
+                                <p>Front end and back end application coding.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/mobilewebapp/ic-web-process11.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>QA</h4>
+                                <p>Glitches, errors, and responsiveness is checked by QA engineers.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/mobilewebapp/ic-web-process12.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Revisiting</h4>
+                                <p>The lags, breaches, and code are rechecked for further assurance. </p>
+                              </div>
+                            </div>
+                          </a></li>
+                      </ul>
+                    </nav>
+                    <a href="" class="brain_a">Read the customer story <i class="fa-solid fa-arrow-right"></i> </a>
+                  </div>
+                  <div class="right">
+                    <img src="images/tab1.png" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane fade" id="pills-rw" role="tabpanel" aria-labelledby="pills-rw-tab" tabindex="3">
+              <div class="container">
+                <div class="main">
+                  <div class="left">
+                    <h2>Release</h2>
+                    <p>This is the last step, and you get to see your application launched successfully across the
+                      platforms you want to.
+                    </p>
+                    <nav>
+                      <ul>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain screw">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/mobilewebapp/ic-web-process13.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Publication</h4>
+                                <p>The app is launched and released with confidence with performance monitoring going
+                                  on.</p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain screw">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/mobilewebapp/ic-web-process14.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Maintenance</h4>
+                                <p>Continued maintenance is done through periodic check-ups for glitch-free performance.
+                                </p>
+                              </div>
+                            </div>
+                          </a></li>
+                        <li><a href="">
+                            <div class="brain_main my-5">
+                              <div class="brain screw">
+                                <div class="img">
+                                  <img src="https://www.convexinteractive.com/images/mobilewebapp/ic-web-process15.svg"
+                                    alt="">
+                                </div>
+                              </div>
+                              <div class="brain_content">
+                                <h4>Support</h4>
+                                <p>Excellent after-sales support is extended to our clients, so the end-user never
+                                  experiences a fall. </p>
+                              </div>
+                            </div>
+                          </a></li>
+                      </ul>
+                    </nav>
+                    <a href="" class="brain_a">Read the customer story <i class="fa-solid fa-arrow-right"></i> </a>
+                  </div>
+                  <div class="right">
+                    <img src="images/tab1.png" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>

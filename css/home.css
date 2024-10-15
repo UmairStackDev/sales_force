@@ -1,0 +1,16 @@
+.home .container-fluid{
+  margin: 0;
+  padding: 0;
+}
+
+
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+/* Optional: Reset padding for columns */
+.col-1, .col-11 {
+  padding-right: 0;
+  padding-left: 0;
+}
